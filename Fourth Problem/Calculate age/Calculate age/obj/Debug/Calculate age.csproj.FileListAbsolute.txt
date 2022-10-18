@@ -1,0 +1,15 @@
+G:\Onspec-Tasks\Fourth Problem\Calculate age\Calculate age\bin\Debug\Calculate age.exe.config
+G:\Onspec-Tasks\Fourth Problem\Calculate age\Calculate age\bin\Debug\Calculate age.exe
+G:\Onspec-Tasks\Fourth Problem\Calculate age\Calculate age\bin\Debug\Calculate age.pdb
+G:\Onspec-Tasks\Fourth Problem\Calculate age\Calculate age\obj\Debug\Calculate age.csprojAssemblyReference.cache
+G:\Onspec-Tasks\Fourth Problem\Calculate age\Calculate age\obj\Debug\MainWindow.g.cs
+G:\Onspec-Tasks\Fourth Problem\Calculate age\Calculate age\obj\Debug\App.g.cs
+G:\Onspec-Tasks\Fourth Problem\Calculate age\Calculate age\obj\Debug\Calculate age_MarkupCompile.cache
+G:\Onspec-Tasks\Fourth Problem\Calculate age\Calculate age\obj\Debug\Calculate age_MarkupCompile.lref
+G:\Onspec-Tasks\Fourth Problem\Calculate age\Calculate age\obj\Debug\MainWindow.baml
+G:\Onspec-Tasks\Fourth Problem\Calculate age\Calculate age\obj\Debug\Calculate age.g.resources
+G:\Onspec-Tasks\Fourth Problem\Calculate age\Calculate age\obj\Debug\Calculate_age.Properties.Resources.resources
+G:\Onspec-Tasks\Fourth Problem\Calculate age\Calculate age\obj\Debug\Calculate age.csproj.GenerateResource.cache
+G:\Onspec-Tasks\Fourth Problem\Calculate age\Calculate age\obj\Debug\Calculate age.csproj.CoreCompileInputs.cache
+G:\Onspec-Tasks\Fourth Problem\Calculate age\Calculate age\obj\Debug\Calculate age.exe
+G:\Onspec-Tasks\Fourth Problem\Calculate age\Calculate age\obj\Debug\Calculate age.pdb
