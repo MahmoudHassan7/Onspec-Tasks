@@ -1,0 +1,106 @@
+1- class Program
+    {
+        static void Main(string[] args)
+        {
+            int size= Convert.ToInt32(Console.ReadLine()); 
+            int[] nums = new int[size]; 
+            for (int i = 0; i < size; i++)
+            {
+                nums[i]= Convert.ToInt32(Console.ReadLine());
+            }
+
+            int target= Convert.ToInt32(Console.ReadLine());
+            int[] result = Solution.TwoSum(nums, target);
+            if (result != null)
+            {
+                Console.WriteLine($"[{result[0]}, {result[1]}]");
+            }
+            else
+            {
+                Console.WriteLine("No solution found.");
+            }
+        }
+        public class Solution
+        {
+            public static int[] TwoSum(int[] nums, int target)
+            {
+                int[] arr = new int[2];
+                for (int i = 0; i < nums.Length; i++)
+                {
+                    for (int j = i + 1; j < nums.Length; j++)
+                    {
+                        if (nums[i] + nums[j] == target)
+                        {
+                            arr[0] = i;
+                            arr[1] = j;
+                            return arr;
+                        }
+                    }
+                }
+                return null;
+            }
+        }
+    }
+...........................
+2-class Solution {
+public:
+    ListNode* removeNthFromEnd(ListNode* head, int n) {
+        ListNode*t=head;
+        int s=0;
+        while(t!=NULL){
+            s++;
+            t=t->next;
+        }
+        if(s==0){
+            return NULL;
+        }
+        if(s==n){
+            return head->next;
+        }
+        int e=s-n;
+        s=0;
+        t=head;
+        while(t){
+            s++;
+            if(s==e){
+                t->next=t->next->next;
+            }
+          t=t->next;
+        }
+   return head; }
+};
+......................
+3- select d.name as department , e1.name as employee, e1.salary as Salary
+from Employee e1 join Department d on e1.DepartmentId = d.Id
+where  3 > (select count(distinct (e2.Salary))
+        from  Employee e2
+        where e2.Salary > e1.Salary
+            and e1.DepartmentId = e2.DepartmentId)
+.....................................
+4- DateTime startdate = Convert.ToDateTime( enddate.ToString());
+            DateTime nowdate =  DateTime.Now;
+            TimeSpan diffdate = nowdate.Subtract(startdate);
+            int totaldate =1* Convert.ToInt32(diffdate.TotalDays);
+            int year = totaldate / 365;
+            int remday = totaldate % 365;
+            int month = remday / 30;
+            remday = remday % 30;
+            tage.Text = ("yourcurrentage is" + year + "year," + month + "month" + remday + "days");
+            ..................................................
+4- <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto "></RowDefinition>
+            <RowDefinition Height="auto "  ></RowDefinition>
+            <RowDefinition Height="auto"></RowDefinition>
+        </Grid.RowDefinitions>
+       
+        <StackPanel>
+        <DatePicker Grid.Row="0"   Name="enddate" FontSize=" 24" Background="Aqua"  >
+            
+        </DatePicker>
+            <Button Content="calculate " Click="calculate"   Background="Aqua" FontSize=" 18 " Width="150" >
+                
+            </Button>
+            <TextBlock FontSize=" 18 " x:Name="tage"  ></TextBlock>
+        </StackPanel>
+    </Grid>
