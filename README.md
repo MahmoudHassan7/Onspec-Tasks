@@ -21,4 +21,4 @@ Constraints:
 
 (GUI is most appreciated)
 
-you will find the .exe file in ""
+you will find the .exe file in "EXE" folder
