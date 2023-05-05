@@ -1,0 +1,16 @@
+﻿<Window x:Class="KnowYourAge.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:KnowYourAge"
+        mc:Ignorable="d"
+        Title="Know Your Age" Height="450" Width="800">
+    <Grid Margin="0,0,0,0">
+        <DatePicker Name="datePickerBirthday" HorizontalAlignment="Left" Margin="260,108,0,0" VerticalAlignment="Top" Width="225"/>
+        <Label Content="Select your bithday" HorizontalAlignment="Left" Margin="317,77,0,0" VerticalAlignment="Top"/>
+        <Button Name="buttonCalc" Content="Know Your Birthday" HorizontalAlignment="Left" Margin="319,167,0,0" VerticalAlignment="Top" Click="buttonCalc_Click"/>
+        <Label Name="textResult" Content="Label" HorizontalAlignment="Left" Margin="188,262,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>
