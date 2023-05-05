@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "q3FX+AmZvwN6bL2mr9Ar3ovbFq7I35T7q5vYDIARyoxnkPA8Mb3pA6MCwmgMSuSA2iljmp8Vh83guOw4ZyMQUQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\abdar\\source\\repos\\abdn1995\\Onspec-Tasks\\OnSpecTasksSLN\\OnSpecTasksWPF\\OnSpecTasksWPF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abdar\\.nuget\\packages\\materialdesigncolors\\2.0.9\\materialdesigncolors.2.0.9.nupkg.sha512",
+    "C:\\Users\\abdar\\.nuget\\packages\\materialdesignthemes\\4.6.1\\materialdesignthemes.4.6.1.nupkg.sha512"
+  ],
+  "logs": []
+}
