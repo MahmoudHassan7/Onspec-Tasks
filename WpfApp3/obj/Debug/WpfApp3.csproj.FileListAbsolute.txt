@@ -1,0 +1,15 @@
+D:\Projects\C#\Onspec-Tasks\WpfApp3\bin\Debug\WpfApp3.exe.config
+D:\Projects\C#\Onspec-Tasks\WpfApp3\bin\Debug\WpfApp3.exe
+D:\Projects\C#\Onspec-Tasks\WpfApp3\bin\Debug\WpfApp3.pdb
+D:\Projects\C#\Onspec-Tasks\WpfApp3\obj\Debug\WpfApp3.csprojAssemblyReference.cache
+D:\Projects\C#\Onspec-Tasks\WpfApp3\obj\Debug\MainWindow.g.cs
+D:\Projects\C#\Onspec-Tasks\WpfApp3\obj\Debug\App.g.cs
+D:\Projects\C#\Onspec-Tasks\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.cache
+D:\Projects\C#\Onspec-Tasks\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.lref
+D:\Projects\C#\Onspec-Tasks\WpfApp3\obj\Debug\MainWindow.baml
+D:\Projects\C#\Onspec-Tasks\WpfApp3\obj\Debug\WpfApp3.g.resources
+D:\Projects\C#\Onspec-Tasks\WpfApp3\obj\Debug\WpfApp3.Properties.Resources.resources
+D:\Projects\C#\Onspec-Tasks\WpfApp3\obj\Debug\WpfApp3.csproj.GenerateResource.cache
+D:\Projects\C#\Onspec-Tasks\WpfApp3\obj\Debug\WpfApp3.csproj.CoreCompileInputs.cache
+D:\Projects\C#\Onspec-Tasks\WpfApp3\obj\Debug\WpfApp3.exe
+D:\Projects\C#\Onspec-Tasks\WpfApp3\obj\Debug\WpfApp3.pdb
